@@ -1,0 +1,40 @@
+What is Machin Learning?
+
+Application:
+    Self-driving Cars
+    Robotics
+    Language processing
+    Vision processing
+    Forecasting Stock Market Trends
+
+Steps: 
+    1. Import the Data(CSV)
+    2. Clean the Data (Removing Duplicated Data is important otherwise 
+        our model will learn bad pattern and produce wrong results)
+    3. Split the Data into Training/Test Sets (Training- 80%, Testing-20%)
+    4. Create a Model (Selecting an algorithms to analyze your data)
+        Algorithms: 
+            Decision Tree
+            Neural N/w
+            ....
+    5. Train the Model
+    6. Make Predictions (predictions are not always accurate so, step 7)
+    7. Evaluate and Improve (Measure the accuracy) then get back to the model 
+        and fine-tune the parameters/selecet different model/Algorithms
+
+Libraries and Tools: 
+
+Libraries:
+    Numpy- Multi-Dimensional Array
+    Pandas- Data Analysis library that provides DataFrame(2D structures/spreadsheet)
+    Matplotlib- 2D plotting library for creating graphs and plots
+    Scikit-learn- Machine Learning library for common algorithms
+
+Tools: 
+    Anaconda
+    jupyter notebook
+    visual studio code
+    
+
+
+
