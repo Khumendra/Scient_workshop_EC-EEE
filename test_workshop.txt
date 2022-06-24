@@ -1,0 +1,149 @@
+1. Which statement is correct?
+    - Data is a raw fact
+    - Collected Data from different resources can be Unstructured and messy
+    - Both are true
+    - None of these statements are true
+Answer- Both are true
+    
+2. Is data good or bad?
+    - Good
+    - Bad
+    - Both (Good) and (Bad) 
+    - None of these
+Answer- Both (Good) and (Bad) 
+
+3. Which Statement is not correct?
+    -   Data Science is the process of extracting valuable information from data 
+        for business decision-making, strategic planning and other uses.
+    -   Data Science Requires Domain Experties
+    -   Both 
+    -   None of these
+Answer- None of these
+
+4. Choose the correct components of data science?
+    - Domain Experties
+    - Data Engineering
+    - Advanced Computing
+    - All of these
+Answer- All of these
+
+5. Which one is the First Step of Data Science Process?
+    - Collect Raw Data
+    - Business Requirements
+    - Clean Data
+    - EDA
+Answer- Business Requirements
+    
+6.  Unstructured data is not organized?
+    - True
+    - False
+    - may be true or false
+    - cannot be determined
+Answer- True
+
+7. Machine learning is a subset of which of the following?
+    - Artifical Intelligence
+    - Deep Learning
+    - Data Learning
+    - None of these
+Answer- Artificial Intelligence
+
+8. In which domain we cannot apply Data-science?
+    - Healthcare
+    - Finance
+    - Both
+    - None of these
+Answer- None of these
+
+9. Identify the key data science skills among the following
+    - Data Visualization
+    - Machine Learning
+    - Statistics
+    - All of the abvoe
+Answer- All of the above
+
+10. A program which translates a high-level language program into a machine language program is called ?
+    - Compiler
+    - Interpreters
+    - Both (Compiler) and (Interpreters)
+    - None of the above
+Answer- Both (Compiler) and (Interpreters)
+
+
+11. Data Science Process Involves?
+    - Business Requirements
+    - Data Collection
+    - EDA
+    - All of these
+
+Answer- All of these
+
+
+12. Which one is correct statement about Artifical Intelligence?
+    - Weak AI- Humans surpasses the Machines
+    - Strong AI- Humans and Machines are in the same level
+    - Super AI- Estimated that Machines surpasses the Humans
+    - All of these
+Answer- All of these
+
+
+13. Which statement is not correct about Machine Learning?
+    - Machine Learning is branch of AI
+    - Machine can learn from past data with human intervention
+    - Human intervention is not required
+    - Machine can predict and forcast 
+Answer- Human intervention is not required
+
+14. Which one is not the example of Classification?
+    - Will it be Cold or Hot tomorrow?
+    - What is the temperature going to be tomorrow?
+    - Predicted value is categorical
+    - Email is spam or not
+Answer- What is the temperature going to be tomorrow?
+
+15. Whch statement is not correct about pandas?
+    -  Python library used for analyzing, cleaning, exploring, and manipulating data.
+    -  Pandas can clean messy data sets, and make them readable and relevant.
+    -  All the above statements are correct
+    -  None of these statements are correct
+Answer- All the above statements are correct
+
+16. Which of the following command is used to install Pandas?
+    - pip install pandas
+    - install pandas
+    - install pip pandas
+    - None of the above 
+Answer- pip install pandas
+
+17. Which statement is used to read csv file?
+    - pd.read_csv()
+    - df.read_csv()
+    - df.read_excel()
+Answer- pd.read_csv()
+
+
+18. What is the use of df.head()?
+    - Returns the last n rows
+    - Returns the first n rows
+    - Returns 5 random records
+    - None of these
+Answer- Returns the first n rows
+
+
+
+19. What df.shape ?
+    - Returns (cols, rows)
+    - Returns (rows, cols)
+    - Returns  cols
+    - Returns  rows
+Answer- Returns (rows, cols)
+
+20. What is Data Analytics?
+    - Act of analyzing datasets in order to derive conclusions about the information?
+    - Responsible for building data pipelines to bring together information from different source systems.
+    - No one
+
+Answer- Act of analyzing datasets in order to derive conclusions about the information?
+
+
+

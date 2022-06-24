@@ -1,0 +1,31 @@
+Introduction
+What is Machine Learning? 
+Machine Learning in Action 
+Libraries and Tools
+Importing a Data Set
+Jupyter Shortcuts
+A Real Machine Learning Problem 
+Preparing the Data
+Learning and Predicting
+Calculating the Accuracy
+Persisting Models
+Visualizing a Decision Tree
+
+Problem:
+Online music store when user singup ask for age and gender and based on their profile we recommand
+various music albums they are likely to buy. In this project we will use Machine Learning to increase 
+sales.
+
+Build the model feed the model with sample data based on existing users, our model will learn the pattern
+in our data so we can ask it to make predictions. Whenever a new user signs up we tell our model we have a 
+new user with this profile what is a kind of music that this user is interested in, our model will jazz or hip-hop 
+or whatever and based on that we can make suggestion to the user
+
+Steps:
+    1. Import the data
+    2. Clean the data
+    3. Split the data into training/test sets
+    4. Create a Model
+    5. Train the model
+    6. Make predictions
+    7. Evaluate and Improve (if not accurate we either fine tune our model or select a different algorithm)
